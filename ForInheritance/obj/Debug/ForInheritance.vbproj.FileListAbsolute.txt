@@ -1,0 +1,10 @@
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\bin\Debug\ForInheritance.exe.config
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\bin\Debug\ForInheritance.exe
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\bin\Debug\ForInheritance.pdb
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\bin\Debug\ForInheritance.xml
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\obj\Debug\ForInheritance.vbprojResolveAssemblyReference.cache
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\obj\Debug\ForInheritance.Resources.resources
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\obj\Debug\ForInheritance.vbproj.GenerateResource.Cache
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\obj\Debug\ForInheritance.exe
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\obj\Debug\ForInheritance.xml
+D:\МВ\VisualBasic\ForInheritance\ForInheritance\obj\Debug\ForInheritance.pdb
